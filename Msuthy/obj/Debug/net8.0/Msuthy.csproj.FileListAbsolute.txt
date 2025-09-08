@@ -1,0 +1,14 @@
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/bin/Debug/net8.0/Msuthy
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/bin/Debug/net8.0/Msuthy.deps.json
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/bin/Debug/net8.0/Msuthy.runtimeconfig.json
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/bin/Debug/net8.0/Msuthy.dll
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/bin/Debug/net8.0/Msuthy.pdb
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/Msuthy.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/Msuthy.AssemblyInfoInputs.cache
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/Msuthy.AssemblyInfo.cs
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/Msuthy.csproj.CoreCompileInputs.cache
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/Msuthy.dll
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/refint/Msuthy.dll
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/Msuthy.pdb
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/Msuthy.genruntimeconfig.cache
+/home/mylisuthy/Escritorio/C_sharp/Msuthy/obj/Debug/net8.0/ref/Msuthy.dll
