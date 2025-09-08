@@ -1,0 +1,14 @@
+C:\Users\MSUTHY\Desktop\C-FTF\First\bin\Debug\net8.0\First.exe
+C:\Users\MSUTHY\Desktop\C-FTF\First\bin\Debug\net8.0\First.deps.json
+C:\Users\MSUTHY\Desktop\C-FTF\First\bin\Debug\net8.0\First.runtimeconfig.json
+C:\Users\MSUTHY\Desktop\C-FTF\First\bin\Debug\net8.0\First.dll
+C:\Users\MSUTHY\Desktop\C-FTF\First\bin\Debug\net8.0\First.pdb
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\First.dll
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\refint\First.dll
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\First.pdb
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\First.genruntimeconfig.cache
+C:\Users\MSUTHY\Desktop\C-FTF\First\obj\Debug\net8.0\ref\First.dll
