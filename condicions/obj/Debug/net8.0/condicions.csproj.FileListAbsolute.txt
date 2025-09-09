@@ -1,0 +1,15 @@
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/condicions.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/condicions.AssemblyInfoInputs.cache
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/condicions.AssemblyInfo.cs
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/condicions.csproj.CoreCompileInputs.cache
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/condicions.sourcelink.json
+/home/mylisuthy/Escritorio/C-FTF/condicions/bin/Debug/net8.0/condicions
+/home/mylisuthy/Escritorio/C-FTF/condicions/bin/Debug/net8.0/condicions.deps.json
+/home/mylisuthy/Escritorio/C-FTF/condicions/bin/Debug/net8.0/condicions.runtimeconfig.json
+/home/mylisuthy/Escritorio/C-FTF/condicions/bin/Debug/net8.0/condicions.dll
+/home/mylisuthy/Escritorio/C-FTF/condicions/bin/Debug/net8.0/condicions.pdb
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/condicions.dll
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/refint/condicions.dll
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/condicions.pdb
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/condicions.genruntimeconfig.cache
+/home/mylisuthy/Escritorio/C-FTF/condicions/obj/Debug/net8.0/ref/condicions.dll
