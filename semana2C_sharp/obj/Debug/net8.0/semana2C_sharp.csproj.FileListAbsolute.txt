@@ -1,0 +1,15 @@
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/bin/Debug/net8.0/semana2C_sharp
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/bin/Debug/net8.0/semana2C_sharp.deps.json
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/bin/Debug/net8.0/semana2C_sharp.runtimeconfig.json
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/bin/Debug/net8.0/semana2C_sharp.dll
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/bin/Debug/net8.0/semana2C_sharp.pdb
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/semana2C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/semana2C_sharp.AssemblyInfoInputs.cache
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/semana2C_sharp.AssemblyInfo.cs
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/semana2C_sharp.csproj.CoreCompileInputs.cache
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/semana2C_sharp.sourcelink.json
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/semana2C_sharp.dll
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/refint/semana2C_sharp.dll
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/semana2C_sharp.pdb
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/semana2C_sharp.genruntimeconfig.cache
+/home/mylisuthy/Escritorio/C-FTF/semana2C_sharp/obj/Debug/net8.0/ref/semana2C_sharp.dll
