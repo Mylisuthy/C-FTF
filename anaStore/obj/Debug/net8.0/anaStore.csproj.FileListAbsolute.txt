@@ -1,0 +1,15 @@
+/home/mylisuthy/Escritorio/C-FTF/anaStore/bin/Debug/net8.0/anaStore
+/home/mylisuthy/Escritorio/C-FTF/anaStore/bin/Debug/net8.0/anaStore.deps.json
+/home/mylisuthy/Escritorio/C-FTF/anaStore/bin/Debug/net8.0/anaStore.runtimeconfig.json
+/home/mylisuthy/Escritorio/C-FTF/anaStore/bin/Debug/net8.0/anaStore.dll
+/home/mylisuthy/Escritorio/C-FTF/anaStore/bin/Debug/net8.0/anaStore.pdb
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/anaStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/anaStore.AssemblyInfoInputs.cache
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/anaStore.AssemblyInfo.cs
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/anaStore.csproj.CoreCompileInputs.cache
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/anaStore.sourcelink.json
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/anaStore.dll
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/refint/anaStore.dll
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/anaStore.pdb
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/anaStore.genruntimeconfig.cache
+/home/mylisuthy/Escritorio/C-FTF/anaStore/obj/Debug/net8.0/ref/anaStore.dll
