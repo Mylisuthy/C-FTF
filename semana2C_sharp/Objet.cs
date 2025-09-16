@@ -1,3 +1,4 @@
+/*
 namespace semana2;
 
 public class Objets
@@ -17,3 +18,4 @@ public class Objets
         public string name { get; set; }
     }
 }
+*/

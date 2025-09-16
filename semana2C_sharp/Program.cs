@@ -1,8 +1,9 @@
-﻿namespace semana2;
+﻿/*
+namespace semana2;
 
 public static class Program
 {
-    public static void Main(string[] args)
+    public static void Carlota(string[] args)
     {
         var producto1 = new Objets.products
         {
@@ -60,7 +61,7 @@ public static class Program
          * Añadirle
          * se le debe agregar un nuevo obgeto llamado microhondas, computador
          */
-        
+        /*
         Console.WriteLine("-----------------List-----------------");
         
         var producto10 = new Objets.products { id = 10, name = "nevera", price = 5000, category = category2 };
@@ -75,9 +76,32 @@ public static class Program
         {
             Console.WriteLine($"Nombre: {p.name} precio: {p.price}");
         }
+        Console.WriteLine("-------------LINQ--------------");
+        //Console.WriteLine("-------------Select--------------");
+        // LINQ = se divide en operadores como select, order by, group by
+        /* 
+         * para el select es necesario
+         * tener una lista ya creada con
+         * la que puedas interactuar,
+         * una vez creada la lista se le
+         * busca con la sentencia LINQ 
+         * para asi comenzar a recorrer
+         * con un foreach.
+         */
+        //List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
 
+        //var squaredNumbers = from number in numbers select number * 2;
+        /*
+        foreach (var num in squaredNumbers)
+        {
+            Console.WriteLine(num);
+        }
+        Console.WriteLine("-------------Order by--------------");
+        *//*
+        Console.WriteLine("--------------------------------------------------");
     }
 }
+*/
 /*
  * 
  */
