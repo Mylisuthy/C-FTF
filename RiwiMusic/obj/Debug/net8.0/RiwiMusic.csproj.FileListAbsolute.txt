@@ -1,0 +1,14 @@
+C:\Users\MSUTHY\Desktop\RiwiMusic\bin\Debug\net8.0\RiwiMusic.exe
+C:\Users\MSUTHY\Desktop\RiwiMusic\bin\Debug\net8.0\RiwiMusic.deps.json
+C:\Users\MSUTHY\Desktop\RiwiMusic\bin\Debug\net8.0\RiwiMusic.runtimeconfig.json
+C:\Users\MSUTHY\Desktop\RiwiMusic\bin\Debug\net8.0\RiwiMusic.dll
+C:\Users\MSUTHY\Desktop\RiwiMusic\bin\Debug\net8.0\RiwiMusic.pdb
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\RiwiMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\RiwiMusic.AssemblyInfoInputs.cache
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\RiwiMusic.AssemblyInfo.cs
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\RiwiMusic.csproj.CoreCompileInputs.cache
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\RiwiMusic.dll
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\refint\RiwiMusic.dll
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\RiwiMusic.pdb
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\RiwiMusic.genruntimeconfig.cache
+C:\Users\MSUTHY\Desktop\RiwiMusic\obj\Debug\net8.0\ref\RiwiMusic.dll
