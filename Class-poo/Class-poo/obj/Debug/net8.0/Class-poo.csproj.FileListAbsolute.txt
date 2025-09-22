@@ -1,0 +1,14 @@
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/bin/Debug/net8.0/Class-poo
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/bin/Debug/net8.0/Class-poo.deps.json
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/bin/Debug/net8.0/Class-poo.runtimeconfig.json
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/bin/Debug/net8.0/Class-poo.dll
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/bin/Debug/net8.0/Class-poo.pdb
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/Class-poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/Class-poo.AssemblyInfoInputs.cache
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/Class-poo.AssemblyInfo.cs
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/Class-poo.csproj.CoreCompileInputs.cache
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/Class-poo.dll
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/refint/Class-poo.dll
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/Class-poo.pdb
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/Class-poo.genruntimeconfig.cache
+/home/mylisuthy/arrays&bucles/Class-poo/Class-poo/obj/Debug/net8.0/ref/Class-poo.dll
