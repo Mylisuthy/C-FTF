@@ -1,0 +1,14 @@
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/RefuerzoC.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/RefuerzoC.AssemblyInfoInputs.cache
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/RefuerzoC.AssemblyInfo.cs
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/RefuerzoC.csproj.CoreCompileInputs.cache
+/home/mylisuthy/Escritorio/RefuerzoC/bin/Debug/net8.0/RefuerzoC
+/home/mylisuthy/Escritorio/RefuerzoC/bin/Debug/net8.0/RefuerzoC.deps.json
+/home/mylisuthy/Escritorio/RefuerzoC/bin/Debug/net8.0/RefuerzoC.runtimeconfig.json
+/home/mylisuthy/Escritorio/RefuerzoC/bin/Debug/net8.0/RefuerzoC.dll
+/home/mylisuthy/Escritorio/RefuerzoC/bin/Debug/net8.0/RefuerzoC.pdb
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/RefuerzoC.dll
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/refint/RefuerzoC.dll
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/RefuerzoC.pdb
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/RefuerzoC.genruntimeconfig.cache
+/home/mylisuthy/Escritorio/RefuerzoC/obj/Debug/net8.0/ref/RefuerzoC.dll
